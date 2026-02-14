@@ -18,6 +18,7 @@ Private repository for useful Bash and Python scripts, shared only with our smal
 
 ## 📁 Folder Structure
 scripts/
+
 ├── bash/
 │ ├── backup.sh
 │ ├── monitor.sh
