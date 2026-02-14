@@ -13,7 +13,7 @@ Private repository for useful Bash and Python scripts, shared only with our smal
   2. Paste into a file (e.g., `backup.sh`), make executable: `chmod +x backup.sh`.
   3. Run: `./backup.sh` or `python3 myscript.py`.
 - **Full setup** (optional, for editing):
-  1. `git clone https://github.com/your-username/scripts-private.git`
+  1. `git clone https://github.com/your-username/toolbox-crew.git`
   2. Install deps if needed: `pip install -r requirements.txt`
 
 ## 📁 Folder Structure
