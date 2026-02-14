@@ -18,17 +18,14 @@ Private repository for useful Bash and Python scripts, shared only with our smal
 
 ## 📁 Folder Structure
 scripts/
-
 ├── bash/
 │ ├── backup.sh
 │ ├── monitor.sh
 │ └── logs/
-
 ├── python/
 │ ├── scraper.py
 │ ├── analyzer.py
 │ └── logs/
-
 ├── README.md
 └── LICENSE
 
