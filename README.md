@@ -17,17 +17,19 @@ Private repository for useful Bash and Python scripts, shared only with our smal
   2. Install deps if needed: `pip install -r requirements.txt`
 
 ## 📁 Folder Structure
+```
 scripts/
 ├── bash/
-│ ├── backup.sh
-│ ├── monitor.sh
-│ └── logs/
+│   ├── backup.sh
+│   ├── monitor.sh
+│   └── logs/
 ├── python/
-│ ├── scraper.py
-│ ├── analyzer.py
-│ └── logs/
+│   ├── scraper.py
+│   ├── analyzer.py
+│   └── logs/
 ├── README.md
 └── LICENSE
+```
 
 ## 🤝 Collaborators
 - Access only for invited friends. Contribute via pull requests!
