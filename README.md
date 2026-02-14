@@ -1,5 +1,3 @@
-# toolbox-crew
-Personal Bash and Python scripts shared with friends. Private toolbox for automations and quick tools.
 # Friends Private Scripts
 
 Private repository for useful Bash and Python scripts, shared only with our small group.
