@@ -22,10 +22,12 @@ scripts/
 │ ├── backup.sh
 │ ├── monitor.sh
 │ └── logs/
+
 ├── python/
 │ ├── scraper.py
 │ ├── analyzer.py
 │ └── logs/
+
 ├── README.md
 └── LICENSE
 
